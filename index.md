@@ -12,3 +12,5 @@
 |[Optimization of RocksDB for Redis on Flash](http://www.kereno.com/rocksdb-rof.pdf)|Reading||||
 |[TAO: Facebook’s Distributed Data Store for the Social Grap](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)|Reading||||
 |[LSM-based Storage Techniques: A Survey](https://arxiv.org/pdf/1812.07527.pdf)|Reading||VLDB 2020||
+|[X-Engine: An Optimized Storage Engine for Large-scale E-commerce Transaction Processing](https://www.cs.utah.edu/~lifeifei/papers/sigmod-xengine.pdf)|Reading||SIGMOD'19||
+
